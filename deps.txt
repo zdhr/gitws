@@ -2,3 +2,4 @@ earth
 atmosphere
 oxygen
 liquid-water
+high-caliber-sniper-rifle
