@@ -1,6 +1,6 @@
 export default class TigerCage {
 
 	constructor() {
-		this.numberOfHoles = 3
+		this.numberOfHoles = 2
 	}
 }
