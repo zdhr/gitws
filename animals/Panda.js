@@ -1,11 +1,11 @@
 export default class Panda {
 
-	isInFuckingMood() {
+	isInBreedingMood() {
 		return false
 	}
 
-	fuck() {
-		if (this.isInFuckingMood()) {
+	breed() {
+		if (this.isInBreedingMood()) {
 			// censored
 		}
 	}
