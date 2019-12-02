@@ -2,8 +2,7 @@ export default class Monkey {
 
 	hangOnBranch() {
 		// jump
-		// try to catch branch
-		// nearly miss
-		// fail less misserably
+		// catch branch
+		// scream like a maniac
 	}
 }
