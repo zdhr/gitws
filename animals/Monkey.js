@@ -8,7 +8,7 @@ export default class Monkey {
 
 	throwPoo() {
 		// shit in hand
-		// throw shit
+		// throw shit like a boss
 		// scream like a maniac
 	}
 }
