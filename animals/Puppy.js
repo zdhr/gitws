@@ -5,7 +5,7 @@ export default class Puppy {
 	}
 
 	bark() {
-		// Woff
+		// Woff !!!!
 	}
 
 	eat() {
