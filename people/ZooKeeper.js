@@ -1,8 +1,8 @@
 export default class ZooKeeper {
 
 	rest() {
-		this.drinkBeer(3)
-		this.drinkRum(5)
+		this.drinkBeer(2)
+		this.drinkRum(1)
 	}
 
 	drinkBeer(bottles) {
