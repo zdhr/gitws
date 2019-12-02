@@ -9,7 +9,6 @@ export default class Puppy {
 	}
 
 	eat() {
-		// put legs in bowl
-		// make a mess
+		// eat from bowl
 	}
 }
