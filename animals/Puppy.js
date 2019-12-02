@@ -1,7 +1,7 @@
 export default class Puppy {
 
 	constructor() {
-		this.peesOnCarpet = true
+		this.peesOnCarpet = false
 	}
 
 	bark() {
