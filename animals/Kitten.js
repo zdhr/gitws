@@ -5,6 +5,6 @@ export default class Kitten {
 	}
 
 	meow() {
-		// mewwww
+		// meowww
 	}
 }
